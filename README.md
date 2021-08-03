@@ -38,4 +38,4 @@ npm install
 ```
 
 ## Subscribe Channel Zero
-[![ZEROBOT](https://youtube.com/channel/UC7SydwUESoyOQ3qZZuoaNHw)
+[ZEROBOT](https://youtube.com/channel/UC7SydwUESoyOQ3qZZuoaNHw)
