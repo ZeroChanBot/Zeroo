@@ -11,15 +11,15 @@
 ### FOR TERMUX/SSH/UBUNTU
 
 ```bash
-apt update
-apt upgrade
-pkg install git -y
-pkg install nodejs -y
-pkg install ffmpeg -y
-pkg install imagemagick -y
-git clone https://github.com/ZeroChanBot/Zeroo
-cd Zeroo
-npm install
+> apt update
+> apt upgrade
+> pkg install git -y
+> pkg install nodejs -y
+> pkg install ffmpeg -y
+> pkg install imagemagick -y
+> git clone https://github.com/ZeroChanBot/Zeroo
+> cd Zeroo
+> npm install
 ```
 
 ---------
@@ -32,9 +32,9 @@ npm install
 * Click & Install [`IMAGEMAGICK`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/ZeroChanBot/Zeroo
-cd Zeroo
-npm install
+> git clone https://github.com/ZeroChanBot/Zeroo
+> cd Zeroo
+>npm install
 ```
 
 ## Subscribe Channel Zero
