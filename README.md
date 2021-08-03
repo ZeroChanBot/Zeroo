@@ -34,8 +34,8 @@
 ```bash
 > git clone https://github.com/ZeroChanBot/Zeroo
 > cd Zeroo
->npm install
+> npm install
 ```
 
 ## Subscribe Channel Zero
-[ZEROBOT](https://youtube.com/channel/UC7SydwUESoyOQ3qZZuoaNHw)
+[ZeroBot](https://youtube.com/channel/UC7SydwUESoyOQ3qZZuoaNHw)
