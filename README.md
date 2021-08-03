@@ -1,4 +1,4 @@
-# Zeroo
+# ZEROO
 
 <p align="center">
 	<img src="https://i.ibb.co/SydBnC5/20210725-125918.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
