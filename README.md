@@ -1,5 +1,7 @@
 # Zeroo
 
+<div align="center">
+  <img border-radius: 15px src="https://avatars.githubusercontent.com/u/67726326?v=4" width="300" height="300"/>
 <p align="center">
 	<img src="https://i.ibb.co/SydBnC5/20210725-125918.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
