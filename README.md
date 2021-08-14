@@ -41,8 +41,6 @@
 ```
 
 ## Subscribe Channel Zero
-<h1 align="center"> Bantu Subscribe Dan Share Channel Saya
-<p align="center">
-  <a href="https://youtube.com/channel/UC7SydwUESoyOQ3qZZuoaNHw"><img src="https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=youtube" /> <br>
+  <a href="https://youtube.com/channel/UC7SydwUESoyOQ3qZZuoaNHw"><img src="https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=youtube" /> <a>
   
 </p>
