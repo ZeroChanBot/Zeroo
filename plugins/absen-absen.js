@@ -27,10 +27,10 @@ ${list}
 │ 
 └────
 
-_©ZEROBOT_`, m, { contextInfo: { mentionedJid: absen } })
+_By Raku Gans_`, m, { contextInfo: { mentionedJid: absen } })
 }
-handler.help = ['absen']
+handler.help = ['.absen']
 handler.tags = ['abs']
-handler.command = ['absen']
+handler.command = ['.absen']
 handler.group = true
 module.exports = handler
