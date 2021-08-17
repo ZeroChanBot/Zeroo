@@ -27,7 +27,7 @@ ${list}
 │ 
 └────
 
-_ZEROBOT`, m, { contextInfo: { mentionedJid: absen } })
+_`ZEROBOT`, m, { contextInfo: { mentionedJid: absen } })
 }
 handler.help = ['absen']
 handler.tags = ['abs']
